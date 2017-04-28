@@ -1,351 +1,50 @@
-51 Peg   
-BD+20 1790   
-BD-10 3166   
-CI Tau b
-CoRoT-1   
-CoRoT-11   
-CoRoT-12   
-CoRoT-13   
-CoRoT-14   
-CoRoT-16   
-CoRoT-17   
-CoRoT-18   
-CoRoT-19   
-CoRoT-2   
-CoRoT-20   
-CoRoT-21
-CoRoT-23   
-CoRoT-26   
-CoRoT-27   
-CoRoT-28   
-CoRoT-29   
-CoRoT-4   
-CoRoT-5   
-CoRoT-6   
-CVSO 30
-EPIC 211351816   
-EPIC 220504338
-HAT-P-1   
-HAT-P-13   
-HAT-P-14   
-HAT-P-15   
-HAT-P-16   
-HAT-P-17   
-HAT-P-2   
-HAT-P-20   
-HAT-P-21   
-HAT-P-22   
-HAT-P-23   
-HAT-P-24   
-HAT-P-25   
-HAT-P-27   
-HAT-P-28   
-HAT-P-29   
-HAT-P-3   
-HAT-P-30   
-HAT-P-31   
-HAT-P-32
-HAT-P-33   
-HAT-P-34   
-HAT-P-35   
-HAT-P-36   
-HAT-P-37   
-HAT-P-39   
-HAT-P-4   
-HAT-P-40   
-HAT-P-41   
-HAT-P-42   
-HAT-P-43   
-HAT-P-44   
-HAT-P-45   
-HAT-P-46   
-HAT-P-49   
-HAT-P-5   
-HAT-P-50   
-HAT-P-51   
-HAT-P-52   
-HAT-P-53   
-HAT-P-54   
-HAT-P-55   
-HAT-P-56   
-HAT-P-57   
-HAT-P-6   
-HAT-P-65   
-HAT-P-66   
-HAT-P-67   
-HAT-P-7   
-HAT-P-8   
-HAT-P-9   
-HATS-1   
-HATS-10   
-HATS-11   
-HATS-12   
-HATS-13   
-HATS-14   
-HATS-15   
-HATS-16   
-HATS-18   
-HATS-19
-HATS-2   
-HATS-21
-HATS-22   
-HATS-23   
-HATS-24   
-HATS-25   
-HATS-26   
-HATS-27   
-HATS-28   
-HATS-29   
-HATS-3   
-HATS-30   
-HATS-31   
-HATS-32   
-HATS-33   
-HATS-34   
-HATS-35   
-HATS-4   
-HATS-6   
-HATS-9   
-HD 102195   
-HD 102956   
-HD 103720   
-HD 103774   
-HD 118203   
-HD 143105   
-HD 149026   
-HD 149143   
-HD 179949   
-HD 185269   
-HD 187123   
-HD 189733
-HD 209458
-HD 212301   
-HD 217107   
-HD 2638   
-HD 285507   
-HD 330075   
-HD 63454   
-HD 68988   
-HD 73256   
-HD 75289   
-HD 77338
-HD 83443   
-HD 86081   
-HD 88133   
-HIP 14810   
-HIP 91258   
-K2-107   
-K2-29   
-K2-30   
-K2-31   
-K2-34   
-K2-60   
-KELT-10   
-KELT-12
-KELT-14   
-KELT-15   
-KELT-16   
-KELT-17   
-KELT-18
-KELT-2 A   
-KELT-3   
-KELT-4 A   
-KELT-6   
-KELT-7   
-KELT-8   
-Kepler-12   
-Kepler-14   
-Kepler-15   
-Kepler-17   
-Kepler-40   
-Kepler-41   
-Kepler-412   
-Kepler-415   
-Kepler-422   
-Kepler-423   
-Kepler-424   
-Kepler-426   
-Kepler-428   
-Kepler-43   
-Kepler-433   
-Kepler-435   
-Kepler-44   
-Kepler-447   
-Kepler-45   
-Kepler-5   
-Kepler-6   
-Kepler-7   
-Kepler-74   
-Kepler-75   
-Kepler-76   
-Kepler-77   
-Kepler-8   
-Kepler-91   
-KOI-13   
-Lupus-TR-3   
-NGC 2682 YBP 1194   
-NGC 2682 YBP 1514   
-NGC 2682 YBP 401   
-OGLE2-TR-L9   
-OGLE-TR-10   
-OGLE-TR-111 
-OGLE-TR-113   
-OGLE-TR-132   
-OGLE-TR-182   
-OGLE-TR-211   
-OGLE-TR-56 
-POTS-1   
-Pr0201   
-Pr0211   
-PSR 0636
-PSR 1719-14
-PSR J1719-1438   
-PSR J1807-2459 A
-PSR J2241-5236
-Qatar-1   
-Qatar-2   
-Qatar-3
-Qatar-4
-Qatar-5
-SWEEPS-11   
-SWEEPS-4   
-tau Boo   
-TrES-1   
-TrES-2   
-TrES-3   
-TrES-4   
-TrES-5   
-ups And   
-V830 Tau   
-WASP-1   
-WASP-10   
-WASP-100   
-WASP-101   
-WASP-102
-WASP-103   
-WASP-104   
-WASP-105
-WASP-106   
-WASP-108 
-WASP-109 
-WASP-11   
-WASP-110 
-WASP-111
-WASP-112
-WASP-113   
-WASP-114   
-WASP-117
-WASP-118   
-WASP-119   
-WASP-12   
-WASP-120   
-WASP-121   
-WASP-123   
-WASP-124   
-WASP-129   
-WASP-13   
-WASP-132   
-WASP-133   
-WASP-135   
-WASP-136   
-WASP-138   
-WASP-14   
-WASP-140   
-WASP-141   
-WASP-142   
-WASP-15   
-WASP-157   
-WASP-16   
-WASP-17   
-WASP-18   
-WASP-19   
-WASP-2   
-WASP-20   
-WASP-21 
-WASP-22   
-WASP-23   
-WASP-24   
-WASP-25   
-WASP-26   
-WASP-28   
-WASP-3   
-WASP-31   
-WASP-32   
-WASP-33   
-WASP-34   
-WASP-35   
-WASP-36   
-WASP-37   
-WASP-38   
-WASP-4   
-WASP-41   
-WASP-42   
-WASP-43   
-WASP-44   
-WASP-45   
-WASP-46   
-WASP-47   
-WASP-48   
-WASP-49   
-WASP-5   
-WASP-50   
-WASP-52   
-WASP-53   
-WASP-54   
-WASP-55   
-WASP-56   
-WASP-57   
-WASP-58   
-WASP-59   
-WASP-6   
-WASP-60   
-WASP-61   
-WASP-62   
-WASP-63   
-WASP-64   
-WASP-65   
-WASP-66   
-WASP-67   
-WASP-68   
-WASP-7   
-WASP-70 A   
-WASP-71   
-WASP-72   
-WASP-73   
-WASP-74   
-WASP-75   
-WASP-76   
-WASP-77 A   
-WASP-78   
-WASP-79   
-WASP-8   
-WASP-80   
-WASP-81   
-WASP-82   
-WASP-83
-WASP-84   
-WASP-85 A   
-WASP-86
-WASP-87A
-WASP-88   
-WASP-89   
-WASP-90   
-WASP-91
-WASP-92   
-WASP-93   
-WASP-94 A   
-WASP-94 B   
-WASP-95   
-WASP-96   
-WASP-97   
-WASP-98   
-WASP-99   
-WTS-1   
-WTS-2   
-XO-1   
-XO-2 N   
-XO-3   
-XO-4   
-XO-5   
-XO-6   
-YBP401 
+The catalog of Hot Jupiters from the following five websites: 
+http://exoplanet.eu/；
+http://exoplanets.org/；
+http://exoplanetarchive.ipac.caltech.edu/；
+http://openexoplanetcatalogue.com/}；
+http://www.astro.keele.ac.uk/jkt/tepcat/rossiter.html;
+we find 581 HJs, with mass(sini) greater than 0.3 Jupiter mass and lower than 13 Jupiter mass,  period less than 10 days.
+Notes:
+1 not including planets with very large mass error:
+k2-22
+k2-33
+k2-77
+kepler-52
+2 not including planets without mass data in http://exoplanetarchive.ipac.caltech.edu/, but in http://exoplanets.org/:
+kepler-471
+kepler-485
+kepler-488
+kepler-490
+kepler-491
+kepler-493
+kepler-548
+kepler-670
+kepler-685
+kepler-686
+kepler-688
+kepler-695
+kepler-703
+kepler-714
+kepler-718
+kepler-719
+kepler-720
+kepler-723
+kepler-730
+kepler-731
+kepler-762
+kepler-785
+kepler-817
+kepler-840
+kepler-854
+kepler-855
+kepler-856
+3 the data of mu Ara c and d mixed
+4 duplication of name
+  NGC 2682: M67
+  kepler-13:koi-13
+  k2-22:epic201637175
+  k2-107:epic 216468514
+  k2-97:epic211351816
+  koi-195:kepler-426
+  koi-830:kepler-428
